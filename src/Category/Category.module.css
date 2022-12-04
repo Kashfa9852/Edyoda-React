@@ -38,3 +38,9 @@
   gap: 5px;
   flex-wrap: wrap;
 }
+
+
+.category_container>:first-child {
+  background-color: #0084ff;
+  color: white;
+}
